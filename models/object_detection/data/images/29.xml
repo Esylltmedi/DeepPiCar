@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Llynia 3</folder>
+	<filename>29.jpg</filename>
+	<path>C:/Users/User/Documents/4/EV/FOD/Stereo Camera/Llynia Objects/Llynia 3/29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Coin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1353</xmin>
+			<ymin>814</ymin>
+			<xmax>1604</xmax>
+			<ymax>937</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Key</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>969</xmin>
+			<ymin>1040</ymin>
+			<xmax>1437</xmax>
+			<ymax>1430</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Foil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1133</xmin>
+			<ymin>2128</ymin>
+			<xmax>3066</xmax>
+			<ymax>2834</ymax>
+		</bndbox>
+	</object>
+</annotation>
