@@ -1,38 +1,26 @@
 <annotation>
-	<folder>Llynia Objects</folder>
+	<folder>Llynia 3</folder>
 	<filename>3.jpg</filename>
-	<path>C:/Users/User/Documents/4/EV/FOD/Stereo Camera/Llynia Objects/3.jpg</path>
+	<path>C:/Users/User/Documents/4/EV/FOD/Stereo Camera/Llynia Objects/Llynia 3/3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>640</width>
-		<height>480</height>
+		<width>4032</width>
+		<height>3024</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>Key</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>9</xmin>
-			<ymin>308</ymin>
-			<xmax>229</xmax>
-			<ymax>430</ymax>
-		</bndbox>
-	</object>
 	<object>
 		<name>Foil</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>246</xmin>
-			<ymin>144</ymin>
-			<xmax>400</xmax>
-			<ymax>225</ymax>
+			<xmin>1053</xmin>
+			<ymin>976</ymin>
+			<xmax>2198</xmax>
+			<ymax>1343</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>567</xmin>
-			<ymin>288</ymin>
-			<xmax>636</xmax>
-			<ymax>333</ymax>
+			<xmin>2859</xmin>
+			<ymin>814</ymin>
+			<xmax>3091</xmax>
+			<ymax>947</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Key</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2566</xmin>
+			<ymin>1337</ymin>
+			<xmax>2933</xmax>
+			<ymax>1885</ymax>
 		</bndbox>
 	</object>
 </annotation>
